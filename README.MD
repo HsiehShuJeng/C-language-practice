@@ -1,1 +1,1 @@
-Those are the algorithms implemented using C language.
+Those are the algorithms implemented using C language
